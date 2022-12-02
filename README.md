@@ -12,25 +12,26 @@
 
 Цель: разработать игру 2D Endless Runner
 
-1)Создаем Проект и импортируем туда папку с  Assets и Sprites
- ![image](https://user-images.githubusercontent.com/119482774/205072967-f6b9f031-5674-4f85-842b-e19860853dea.png)
+	 1)_____Создаем Проект и импортируем туда папку с  Assets и Sprites
+ _____![image](https://user-images.githubusercontent.com/119482774/205072967-f6b9f031-5674-4f85-842b-e19860853dea.png)
 
-Рисунок 4.1 Импортированная папка Assets
- ![image](https://user-images.githubusercontent.com/119482774/205073006-da86aa6e-b1cb-436d-8af6-1c5be0ec42b3.png)
+_____Рисунок 4.1 Импортированная папка Assets
+ _____![image](https://user-images.githubusercontent.com/119482774/205073006-da86aa6e-b1cb-436d-8af6-1c5be0ec42b3.png)
 
-Рисунок 4.2 Папка Assets с данными
-2) Добавляем Два Объекта Player  и Player Sprites. Настраиваем их
- ![image](https://user-images.githubusercontent.com/119482774/205073045-c44c9068-8d55-4a65-afe6-b86efc16c095.png)
+_____Рисунок 4.2 Папка Assets с данными
 
-Рисунок 4.3 Объекты Player  и Player Sprites
- ![image](https://user-images.githubusercontent.com/119482774/205073059-2d4eec5f-18dc-4ee1-96ab-9465437fde62.png)
+	2) Добавляем Два Объекта Player  и Player Sprites. Настраиваем их
+_____ ![image](https://user-images.githubusercontent.com/119482774/205073045-c44c9068-8d55-4a65-afe6-b86efc16c095.png)
 
-Рисунок 4.4 Настройка Player Sprites
+_____Рисунок 4.3 Объекты Player  и Player Sprites
+_____ ![image](https://user-images.githubusercontent.com/119482774/205073059-2d4eec5f-18dc-4ee1-96ab-9465437fde62.png)
+
+_____Рисунок 4.4 Настройка Player Sprites
  
- ![image](https://user-images.githubusercontent.com/119482774/205073133-ebb54d47-d69a-4c08-9507-17d4fbae3238.png)
+ _____![image](https://user-images.githubusercontent.com/119482774/205073133-ebb54d47-d69a-4c08-9507-17d4fbae3238.png)
 
-Рисунок 4.5 Настройка Player
-3) Создаём Папку Scripts и Добавляем код  для взаимодействием с Player – объектом, а также его движениями 
+_____Рисунок 4.5 Настройка Player
+_____ 3) Создаём Папку Scripts и Добавляем код  для взаимодействием с Player – объектом, а также его движениями 
 ```
 using System.Collections;
 using System.Collections.Generic;
